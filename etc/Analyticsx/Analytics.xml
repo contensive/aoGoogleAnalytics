@@ -1,4 +1,7 @@
-<Collection name="Analytics" guid="{B1743401-851B-4A51-AF03-36D9016D18AD}" system="No" updatable="Yes" blockNavigatorNode="No">
+<Collection name="Analytics" guid="{B1743401-851B-4A51-AF03-36D9016D18AD}" system="No" updatable="Yes" blockNavigatorNode="No"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://contensive.s3.amazonaws.com/xsd/Collection.xsd"
+>
 	<HelpLink></HelpLink>
 	<Help></Help>
 	<Addon name="Add Google Analytics To All Pages" guid="{C9EFB120-F42F-4BBF-85B5-F03CA907AD7F}" type="Add-on">
