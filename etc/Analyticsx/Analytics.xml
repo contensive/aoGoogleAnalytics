@@ -7,7 +7,6 @@
 	<Addon name="Add Google Analytics To All Pages" guid="{C9EFB120-F42F-4BBF-85B5-F03CA907AD7F}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -54,7 +53,6 @@ end function
 	<Addon name="Analytics Settings" guid="{C0CC032E-AE4A-4623-A5F9-5EB4A7E00C2A}" type="Setting">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
